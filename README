@@ -1,0 +1,8 @@
+PROYECTO 3
+
+- Se utiliza diccionario con nombre y categoria.
+- Se agregan "El gran" a los nombres de las categorías "mago".
+- Se imprime la lista antes de modificar.
+- Se imprime la lista con los nombres agrupados según su categoría ("magos", "científicos", "otros").
+
+Para descargar el código: git clone https://github.com/Sinxds/proyecto_evaluado_3.git
